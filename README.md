@@ -1,8 +1,5 @@
 # CS60 Spring 2021
 # Project Title: Distributed Voting Using Peer-to-Peer Blockchain
-## Team name: project-boxian-james-karim-george ***NOTE: THE "JAMES" IS A MISTAKE
-
-## Team members: Gabe Kotsonis, Boxian Wang, George McNulty, Karim Itani
 
 ## Code Structure
 
